@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  👋 Hi, I’m @Mikhail
-  👀 I’m interested in Web-Technology
-  🌱 I’m currently learning HTML CSS JS
+<div id="header">
+  - 👋 Hi, I’m @Mikhail
+  - 👀 I’m interested in Web-Technology
+  - 🌱 I’m currently learning HTML CSS JS
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://vk.com/mikhailfrolov1">
