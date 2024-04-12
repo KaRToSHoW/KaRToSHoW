@@ -1,5 +1,6 @@
+---
 <div id="header" align="left">
-  <p>👋 Hi, I’m @Mikhail</p>
+  <p>👋 Hello, I’m Mikhail</p>
   <p>👀 I’m interested in Web-Technology</p>
   <p>🌱 I’m currently learning HTML CSS JS</p>
   <div id="badges">
@@ -8,7 +9,6 @@
     </a>
   </div>
 <img src="https://komarev.com/ghpvc/?username=KaRToSHoW&style=flat-square&color=blue" alt=""/>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
 </div>
 ---
 
@@ -24,4 +24,6 @@
 
 ### :fire: My Stats :
 <div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KaRToSHoW&theme=dark" alt="GitHub Streak" /></a></div>
-<div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
