@@ -1,8 +1,7 @@
-<div id="header">
-  - 👋 Hi, I’m @Mikhail
-  - 👀 I’m interested in Web-Technology
-  - 🌱 I’m currently learning HTML CSS JS
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" align="center">
+  <p>👋 Hi, I’m @Mikhail</p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10"/>
+  <p>👀 I’m interested in Web-Technology</p>
+  <p>🌱 I’m currently learning HTML CSS JS</p>
   <div id="badges">
     <a href="https://vk.com/mikhailfrolov1">
       <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="vk Badge"/>
