@@ -24,7 +24,7 @@
 ---
 
 ### :fire: My Stats :
-<div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KaRToSHoW&theme=dark" alt="GitHub Streak" /></a></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaRToSHoW&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
