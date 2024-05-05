@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="40" height="40" alt="React" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="40" height="40" alt="Git" />&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
