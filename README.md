@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <h1>👋 Привет, я Михаил!</h1>
-  <p>👀 Увлекаюсь веб-технологиями!</p>
+<div id="header" align="left">
+  <h1>👋 Привет, я Михаил</h1>
+  <p>👀 Увлекаюсь веб-технологиями</p>
+  <p>🌱 Сейчас изучаю HTML, CSS и JS</p>
   <div id="badges">
     <a href="https://vk.com/mikhailfrolov1">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
@@ -12,7 +13,7 @@
 ---
 
 ### :hammer_and_wrench: Языки и инструменты:
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -27,8 +28,15 @@
 
 ---
 
+### :rocket: Чем я сейчас занимаюсь:
+- 🛠 Разрабатываю небольшие проекты, чтобы улучшить свои навыки.
+- 📘 Изучаю основы алгоритмов и структур данных.
+- 🌐 Экспериментирую с новым фреймворком Vue.js.
+
+---
+
 ### :fire: Моя статистика:
-<div align="center">
+<div>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaRToSHoW&theme=dark" alt="GitHub Streak"/>
   </a>
@@ -38,3 +46,7 @@
 </div>
 
 ---
+
+### 📫 Контакты:
+- [VK](https://vk.com/mikhailfrolov1)
+- 📧 Email: miha.frolow2017@yandex.ru
