@@ -1,7 +1,6 @@
 <div id="header" align="left">
   <h1>👋 Привет, я Михаил</h1>
   <p>👀 Увлекаюсь веб-технологиями</p>
-  <p>🌱 Сейчас изучаю HTML, CSS и JS</p>
   <div id="badges">
     <a href="https://vk.com/mikhailfrolov1">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
@@ -13,20 +12,27 @@
 ---
 
 ### :hammer_and_wrench: Языки и инструменты:
+
+#### 🖥️ Языки программирования:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+</div>
+
+#### 🔧 Инструменты и фреймворки:
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
+
 
 ### :rocket: Чем я сейчас занимаюсь:
 - 🛠 Разрабатываю небольшие проекты, чтобы улучшить свои навыки.
@@ -46,7 +52,3 @@
 </div>
 
 ---
-
-### 📫 Контакты:
-- [VK](https://vk.com/mikhailfrolov1)
-- 📧 Email: miha.frolow2017@yandex.ru
