@@ -51,4 +51,19 @@
   </a>
 </div>
 
+#### 📊 Моя активность:
+<div>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KaRToSHoW&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+#### 🏆 Мои достижения:
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=onedark&no-frame=true&column=4" alt="Trophies"/>
+</div>
+
+#### ⏳ Время за кодом:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaRToSHoW&layout=compact&theme=vision-friendly-dark" alt="Wakatime Stats"/>
+</div>
+
 ---
