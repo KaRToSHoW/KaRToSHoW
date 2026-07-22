@@ -18,35 +18,17 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 ---
 
 ### 🧑‍💻 Немного обо мне
 
-```javascript
-const mikhail = {
-  role: "Fullstack Developer",
-  code: ["JavaScript", "TypeScript", "PHP", "Java", "Python"],
-  stack: {
-    frontend: ["Vue.js", "React", "HTML", "CSS"],
-    backend: ["Laravel", "Spring", "Node.js"],
-    tools: ["Git", "Docker", "Figma"],
-  },
-  learning: ["Алгоритмы", "Структуры данных", "Java + Spring"],
-  motto: "Пишу код, который приятно читать 👌",
-};
-```
-
-- 🔭 Собираю фронт и бэк в единое целое — от интерфейса до API
-- 🌱 Прокачиваю Java, Spring и алгоритмическое мышление
+- 🔭 Fullstack-разработчик: работаю и с фронтендом, и с бэкендом
+- 🧰 Основной стек: Vue.js, React, Laravel, Spring, Node.js
+- 🌱 Сейчас углубляюсь в Java, Spring и алгоритмы
 - 🤝 Открыт к пет-проектам и командной работе
-- 💬 Пиши в Telegram — обсудим код, идеи или мемы про баги
-- ⚡ Лучший код рождается после чашки кофе ☕
+- 📫 Связаться со мной можно в Telegram или по почте
 
 ---
 
@@ -80,14 +62,6 @@ const mikhail = {
 
 ---
 
-### 💡 Цитата дня
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
-
----
-
 ### 🔥 Моя статистика
 
 <div align="center">
@@ -108,7 +82,7 @@ const mikhail = {
 > 🏆 **Достижения**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=radical&no-frame=true&margin-w=4&column=4" alt="Trophies"/>
 </div>
 
 ---
