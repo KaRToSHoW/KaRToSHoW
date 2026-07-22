@@ -65,11 +65,6 @@
 ### 🔥 Моя статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaRToSHoW&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=KaRToSHoW&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -77,12 +72,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaRToSHoW&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-> 🏆 **Достижения**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=radical&no-frame=true&margin-w=4&column=4" alt="Trophies"/>
 </div>
 
 ---
