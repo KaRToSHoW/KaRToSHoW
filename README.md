@@ -1,37 +1,59 @@
 <div id="header" align="center">
-  <h1>👋 Привет, я Михаил</h1>
-  <p>👀 Увлекаюсь веб-технологиями и постоянно учусь новому</p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9DDE&center=true&vCenter=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%F0%9F%91%8B;Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%B2%D0%B5%D0%B1+%D0%B8+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4" alt="Typing SVG"/>
 
   <div id="badges">
     <a href="https://vk.com/mikhailfrolov1">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="mailto:mihafrolow249@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
     <a href="https://t.me/zaborchill">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="mailto:mihafrolow249@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=KaRToSHoW&style=flat-square&color=blue" alt="Просмотры профиля"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/KaRToSHoW/KaRToSHoW/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</picture>
 
 ---
 
-### 🧑‍💻 Обо мне:
-- 🔭 Сейчас работаю над небольшими веб-проектами
-- 🌱 Изучаю алгоритмы, структуры данных и Vue.js
-- 💬 Задавайте вопросы про фронтенд и не только
-- ⚡ Забавный факт: лучший код рождается после чашки кофе ☕
+### 🧑‍💻 Немного обо мне
+
+```javascript
+const mikhail = {
+  role: "Fullstack Developer",
+  code: ["JavaScript", "TypeScript", "PHP", "Java", "Python"],
+  stack: {
+    frontend: ["Vue.js", "React", "HTML", "CSS"],
+    backend: ["Laravel", "Spring", "Node.js"],
+    tools: ["Git", "Docker", "Figma"],
+  },
+  learning: ["Алгоритмы", "Структуры данных", "Java + Spring"],
+  motto: "Пишу код, который приятно читать 👌",
+};
+```
+
+- 🔭 Собираю фронт и бэк в единое целое — от интерфейса до API
+- 🌱 Прокачиваю Java, Spring и алгоритмическое мышление
+- 🤝 Открыт к пет-проектам и командной работе
+- 💬 Пиши в Telegram — обсудим код, идеи или мемы про баги
+- ⚡ Лучший код рождается после чашки кофе ☕
 
 ---
 
-### 🛠️ Языки и инструменты:
+### 🛠️ Языки и инструменты
 
-#### 🖥️ Языки программирования:
+> 🖥️ **Языки программирования**
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,7 +65,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
 </div>
 
-#### 🔧 Инструменты и фреймворки:
+> 🔧 **Инструменты и фреймворки**
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -57,42 +80,39 @@
 
 ---
 
-### 🚀 Чем я сейчас занимаюсь:
-- 🛠 Разрабатываю небольшие проекты, чтобы улучшить свои навыки
-- 📘 Изучаю основы алгоритмов и структур данных
-- ☕ Осваиваю Java и экосистему Spring
-- 🌐 Экспериментирую с фреймворком Vue.js
+### 💡 Цитата дня
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
 
 ---
 
-### 🔥 Моя статистика:
+### 🔥 Моя статистика
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaRToSHoW&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Langs"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaRToSHoW&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRToSHoW&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Langs"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=KaRToSHoW&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=KaRToSHoW&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-#### 📊 Моя активность:
+> 📈 **Активность по дням**
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaRToSHoW&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-#### 🏆 Мои достижения:
+> 🏆 **Достижения**
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaRToSHoW&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <i>💜 Спасибо, что заглянул в профиль — хорошего кода и поменьше багов!</i>
 </div>
